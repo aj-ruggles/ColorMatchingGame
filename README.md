@@ -10,5 +10,5 @@ Lua Color Matching Example
 5. This was created as an example for CS 371 UAHuntsville
 6. Added Score TitleBar to make this more interesting.
 
-This was for pure fun. I first attempt at lua. 
+This was for pure fun. My first attempt at lua. 
 

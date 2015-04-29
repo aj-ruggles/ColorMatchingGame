@@ -1,6 +1,6 @@
 # ColorMatchingGame
 Lua Color Matching Example
-## This lua "app" was created with the help of Coronoa SDK
+## This lua "app" was created with the help of Corona SDK
 
 1. Divide the screen into 10X10 evenly spaced tiles.
 2. Generate (total number of tiles / 2) colors to be paired with each tile
